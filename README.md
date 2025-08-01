@@ -45,7 +45,7 @@ Este dataset contém características computadas a partir de uma imagem digitali
 
 ## Link para o Notebook Colab
 
-[https://colab.research.google.com/drive/1fch1qgCjUJmnXlwL6Ri6Ro5dHIeoP9Ig](https://colab.research.google.com/drive/1fch1qgCjUJmnXlwL6Ri6Ro5dHIeoP9Ig)
+[https://colab.research.google.com/drive/1Y4RTfwF52dgE2S7y2CQ-lNBkW8ceoh5c?usp=sharing](https://colab.research.google.com/drive/1Y4RTfwF52dgE2S7y2CQ-lNBkW8ceoh5c?usp=sharing)
 
 ---
 
